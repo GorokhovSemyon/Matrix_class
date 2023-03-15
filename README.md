@@ -8,3 +8,11 @@
 - checking the degeneracy of the matrix
 - overloading operators [], *, ==
 - finding the inverse matrix
+## Testing
+- Testing was carried out using Google tests
+## Run
+> $ cmake .
+
+> $ make
+
+> $ ./tests
